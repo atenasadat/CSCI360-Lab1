@@ -123,7 +123,7 @@ Passing multiple test cases(40 pts):
 - We have  4 test cases (2 for each algorithm). Your code must pass all the test cases to get the full grade in this section. Each test case has 10 pts.
 
 ---- 
-Extra Credit Question(20 pts):
+### Extra Credit Question(20 pts):
 
 - For this question, upload a pdf file named "Lab1_ExtraCredit.pdf" to this repository.
 
