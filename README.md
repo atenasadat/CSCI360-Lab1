@@ -22,7 +22,7 @@ generates for your repository.
 
 ### Implementation:
 
-The only file you need to implement is ['Lab1.py']('Lab1.py). Grading is based on your code in this file.
+The only file you need to implement is [`Lab1.py`]('Lab1.py). Grading is based on your code in this file.
 
 You are provided with [`lab1_utils.py`](`lab1_utils.py`) which contains
 the `TextbookStack` class. The constructor for this class expects two
