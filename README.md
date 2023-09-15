@@ -1,4 +1,4 @@
-#CSCI36: Lab 1
+# CSCI36: Lab 1
 
 ## Introduction to Artificial Intelligence
 
