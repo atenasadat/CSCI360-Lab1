@@ -106,7 +106,7 @@ invoking:
 python test.py
 ```
 
-from inside your the directory. These are starting points that reflect
+From inside your directory. These are starting points that reflect
 the same type of tests that we will run in order to evaluate and grade
 the correctness of your algorithm.
 
@@ -121,5 +121,5 @@ Full implementation of the DFS algorithm with comprehensible comments (30 pts)
 Full implementation of the BFS algorithm with comprehensible comments (30 pts)
 
 Passing multiple testcases(40 pts):
-We have  4 test cases (2 for each algorithm). Your code must pass all the test cases to get the full grade of this section. Each test case has 10 pts.
+We have  4 test cases (2 for each algorithm). Your code must pass all the test cases to get the full grade in this section. Each test case has 10 pts.
 
