@@ -117,9 +117,9 @@ the correctness of your algorithm.
 
 Grading for this lab consists of two main parts:
 Algorithmes soundness(60 pts) :
-Full implementation of the DFS algorithm with comprehensible comments (30 pts)
-Full implementation of the BFS algorithm with comprehensible comments (30 pts)
+- Full implementation of the DFS algorithm with comprehensible comments (30 pts)
+- Full implementation of the BFS algorithm with comprehensible comments (30 pts)
 
-Passing multiple testcases(40 pts):
-We have  4 test cases (2 for each algorithm). Your code must pass all the test cases to get the full grade in this section. Each test case has 10 pts.
+Passing multiple test cases(40 pts):
+- We have  4 test cases (2 for each algorithm). Your code must pass all the test cases to get the full grade in this section. Each test case has 10 pts.
 
