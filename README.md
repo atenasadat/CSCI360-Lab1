@@ -99,8 +99,7 @@ return the sequence of flips that your search algorithms find.
 
 ## Testing Your Code:
 
-We have given you example tests that you can run from the terminal by
-invoking:
+We have given you example tests that you can run from the terminal by invoking:
 
 ```
 python test.py
@@ -123,3 +122,14 @@ Algorithmes soundness(60 pts) :
 Passing multiple test cases(40 pts):
 - We have  4 test cases (2 for each algorithm). Your code must pass all the test cases to get the full grade in this section. Each test case has 10 pts.
 
+---- 
+Extra Credit Question(20 pts):
+
+- For this question, upload a pdf file named "Lab1_ExtraCredit.pdf" to this repository.
+
+- Your answer must provide two figures for BFS and DFS, respectively, where the x-axis is the value
+of n, and the y-axis is the average number of flips corresponding to n. (10 pts)
+
+- Besides that, you must provide the implementation in function, which
+calculates the average number of flips given each n, with comprehensible comments. Otherwise, you
+will receive at most 10 points. (10 pts)
