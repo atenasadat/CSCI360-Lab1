@@ -1,4 +1,4 @@
-# CSCI36: Lab 1
+# CSCI360: Lab 1
 
 ## Introduction to Artificial Intelligence
 
@@ -6,8 +6,7 @@
 
 ### Setting up the environment
 
-First, you need to initialize your repository using the following command.
-Follow the command line instruction below to initialize your repository
+First, you need to initialize your repository. You can follow the command line instructions below to initialize your repository
 locally. 
 
 ```
